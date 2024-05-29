@@ -1,3 +1,7 @@
+to use the online api to fetch the data to the employee recordes and show in the table in rmployee list page
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
