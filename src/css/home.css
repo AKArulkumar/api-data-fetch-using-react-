@@ -1,0 +1,31 @@
+.container {
+    margin-top: 5rem;
+    text-align: center; /* Center align content */
+  }
+  
+  h1 {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  
+  .btn-primary {
+    background-color: #f0f0f0; /* Light background color */
+    border-color: #f0f0f0;
+    padding: 0.5rem 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333; /* Button text color */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary:hover {
+    background-color: #dcdcdc; /* Button background color on hover */
+    border-color: #dcdcdc;
+  }
+  
